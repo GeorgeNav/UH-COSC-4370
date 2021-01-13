@@ -16,8 +16,7 @@ Ubuntu<br/>
 # References
 Shapes<br/>
 * Disk: https://www.scratchapixel.com/lessons/3d-basic-rendering/minimal-ray-tracer-rendering-simple-shapes/ray-plane-and-ray-disk-intersection<br/>
-* Triangle:
-  * https://www.scratchapixel.com/lessons/3d-basic-rendering/ray-tracing-rendering-a-triangle/ray-triangle-intersection-geometric-solution<br/>
+* Triangle: https://www.scratchapixel.com/lessons/3d-basic-rendering/ray-tracing-rendering-a-triangle/ray-triangle-intersection-geometric-solution<br/>
 
 Formulas<br/>
 * Reflection: https://math.stackexchange.com/questions/13261/how-to-get-a-reflection-vector
