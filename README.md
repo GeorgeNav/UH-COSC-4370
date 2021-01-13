@@ -2,4 +2,4 @@
 University of Houston Interactive Graphics
 
 # About
-All project assigned throughout the course
+All projects assigned throughout the course
